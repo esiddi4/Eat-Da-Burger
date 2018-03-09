@@ -1,0 +1,20 @@
+.jumbotron {
+    padding: 32px;
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: middle;
+    color: #EA0F00;
+}
+
+img {
+    display: inline-block;
+    width: 15%;
+    margin: 0 20px;
+}
+
+.title {
+    display: inline-block;
+    text-align: center;
+}
