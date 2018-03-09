@@ -5,7 +5,6 @@
 h1 {
     display: inline-block;
     vertical-align: middle;
-    color: #EA0F00;
 }
 
 img {
@@ -18,3 +17,45 @@ img {
     display: inline-block;
     text-align: center;
 }
+
+.row {
+    margin: 25px 0;
+}
+
+.card {
+    margin-top: 10px;
+    width: 75%;
+    border: none;
+}
+
+.mb-2 {
+    margin-top: 8px;
+    float: right;
+}
+
+.card-body {
+    clear: both;
+    vertical-align: middle;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+h5 {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px; 
+    color: #ffffff; 
+}
+
+p, button {
+    margin-bottom: 0px;
+}
+
+.col-sm.devour-it > .card > .card-body {
+    background-color: #ffde4f;
+} 
+
+.col-sm.devoured > .card > .card-body {
+    background-color:#EA0F00;
+} 
