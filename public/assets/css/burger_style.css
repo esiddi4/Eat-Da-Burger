@@ -60,3 +60,8 @@ h5 {
 .col-sm.devoured > .card > .card-body {
     background-color:#EA0F00;
 } 
+
+.input-group {
+    width: 40%;
+    margin: 0 auto;
+}
