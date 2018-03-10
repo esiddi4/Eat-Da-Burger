@@ -24,4 +24,4 @@ Now, open the local application on port 8080 at the URL: `http://localhost:8080/
 
 ## Screenshots
 Desktop View
-  * ![Full Size](./public/assets/img/app-screenshot.png)
+![Full Size](./public/assets/img/app-screenshot.png)
