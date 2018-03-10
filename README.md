@@ -1,5 +1,13 @@
 # :hamburger: Eat-Da-Burger!
-Eat-Da-Burger! is a simple, full-stack restaurant app that lets users input the names of burgers they'd like to devour. This app uses HTML/CSS, JavaScript/jQuery, MySQL, Node.js and Express. HTML templating is done using Express-Handlebars.
+Eat-Da-Burger! is a simple, full-stack restaurant app that lets users input the names of burgers they'd like to devour.
+
+#### Languages/Technologies Used
+- HTML/CSS (Bootstrap)
+- JavaScript/jQuery
+- MySQL
+- Node.js
+- Express
+- Express Handlebars (HTML templating)
 
 ## Demo
 
@@ -22,6 +30,5 @@ Finally, run the node server locally.
 	
 Now, open the local application on port 8080 at the URL: `http://localhost:8080/`.
 
-## Screenshots
-Desktop View
+### Screenshot
 ![Full Size](./public/assets/img/app-screenshot.png)
