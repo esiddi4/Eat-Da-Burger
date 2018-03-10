@@ -1,6 +1,4 @@
 # :hamburger: Eat-Da-Burger
-
-## Overview
 Eat-Da-Burger! is a simple, full-stack restaurant app that lets users input the names of burgers they'd like to devour, using HTML/CSS, JavaScript/jQuery, MySQL, Node.js and Express. HTML templating is done using Express-Handlebars.
 
 ## Demo
