@@ -26,30 +26,31 @@ img {
     margin-top: 10px;
     width: 75%;
     border: none;
+    margin: 10px auto;
 }
 
-.mb-2 {
-    margin-top: 8px;
+.devour-btn {
+    margin-top: 10px;
     float: right;
 }
 
 .card-body {
     clear: both;
     vertical-align: middle;
-    padding: 15px;
+    padding: 10px 25px;
     border-radius: 5px;
+}
+
+.col-sm {
+    text-align: center;
 }
 
 h5 {
     display: inline-block;
     text-align: center;
     vertical-align: middle;
-    line-height: 50px; 
     color: #ffffff; 
-}
-
-p, button {
-    margin-bottom: 0px;
+    margin: 16px 0;
 }
 
 .col-sm.devour-it > .card > .card-body {

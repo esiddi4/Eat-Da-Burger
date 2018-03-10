@@ -10,7 +10,8 @@ var orm = {
         });
     },
     insertOne: function (table, col, val, cb) {
-        var query = "INSERT INTO " + table + " (" + col + ") VALUES (" + val + ");";
+        var query = "INSERT INTO " + table + " (" + col + ") VALUES ('" + val + "');";
+        console.log(query);
         connection.query(query, function(err, result){
             if (err) throw err;
             cb(result);
